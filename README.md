@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Santos 👋
 
-<!--
-**SantosBenser/SantosBenser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student at VIT Vellore
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Arduino, FPGA, and MATLAB projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Embedded Systems, Verilog, AI and Chips
+
+🎯 My Interests: Artificial Intelligence, Semiconductors & Chip Design, Robotics & Automation, Cryptocurrency & Blockchain, Finance & Wealth Building, Fitness & Health, Psychology & Human Intelligence, Entrepreneurship, Technology & Innovation
+
+🛠️ Skills: Programming Languages{C++, Python, Java, MATLAB, Verilog HDL, R programming, Assembly Language}, Engineering Softwares{Arduino, Multisim, Matlab, Spyder, Anaconda, VSC, Eclipse IDE, CodeBlocks, Modelsim, Questa Altera, Quartus Prime, Keil uVision4, R 4.5.2, MySQL, Kicad}
+
+👯 I’m looking to collaborate on Embedded Systems, IoT, FPGA, and AI projects.
+
+🤔 I’m looking for help with FPGA Design, VLSI, and Advanced Embedded Development.
+
+💬 Ask me about Arduino, MATLAB, Electronics, GitHub, and Engineering Projects.
+
+📫 How to reach me: Connect with me on GitHub.
+
+⚡ Fun fact: I am a Master of all trades. 
